@@ -1,12 +1,22 @@
 # 🍃 ASF-Android
 > [!WARNING]
-> I am and Archi not responsible for the use of this program, the what happening of your Steam accounts. I can help for fix the errors and problems of this script.
+> I am and Archi not responsible for the use of this program, the what happening of your Steam accounts.
 
-📄 Created by [Steam Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2570297945) 
+> [!NOTE]
+> This is an updated script for Ubuntu 23.10 (the version distributed via proot-distro).
 
-Install [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) in Android using one command
+Install ArchiSteamFarm in Android using one command
 
 Get [Termux](https://f-droid.org/ru/packages/com.termux/), open and enter the command:
 ```
 curl -L -O https://raw.githubusercontent.com/qnezor/ASF-Android/main/asf-android.sh && chmod +x asf-android.sh && bash asf-android.sh
 ```
+
+## Links
+[original repo by sevcator](https://github.com/sevcator/ASF-Android)
+
+[ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)
+
+[source (steam guide)](https://steamcommunity.com/sharedfiles/filedetails/?id=2570297945)
+
+
